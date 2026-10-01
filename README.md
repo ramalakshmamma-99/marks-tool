@@ -1,4 +1,7 @@
 #Mark Tool
-A small comand-line program that reads a list of marks and reports statistics about them.
-Laboratory project for project Management (with git),1BCSL307A.
-
+def average(marks):
+  return sum(marks)/len(marks)
+def highest(marks):
+  return max(marks)
+def lowest(marks):
+  return min(marks)
