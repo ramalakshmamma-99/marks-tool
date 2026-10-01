@@ -10,6 +10,7 @@ def main():
   print("Lowest :", lowest(MARKS))
   print("Count   :",len(MARKS))
   print ("Average:",average (MARKS))
+  print("Lowest :",lowest(MARKS)
   print("highest:",highest (MARKS))
 
 if __name__==" __main__":
